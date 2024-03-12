@@ -4,6 +4,6 @@ ciao
 a
 tutti
 
-ciaooooooooooooooooo
+ciaooooooooooo
 
 Federica
